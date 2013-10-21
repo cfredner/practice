@@ -1,0 +1,55 @@
+
+
+body{
+	width: 750px;
+	font-family: Arial, Verdana, sans-serif;
+	color: #665544;
+	
+}
+
+h1{
+	background-color:#efefef;
+	padding: 10px;
+}
+
+
+h3{
+	
+	background-color:#efefef;
+}
+
+
+.colum1of3, .colum2of3  {
+	width: 300px;
+	float: left;
+	margin: 10px;
+	border: 1px solid #665544;
+	overflow: auto;
+	
+}
+
+
+#nav{
+	padding: 10px;
+	margin: 10px;
+	
+}
+
+li{
+	display: inline;
+	padding: 5px;
+}
+
+
+.small{
+	width: 35px;
+	height: 35px;
+}
+
+#slideshow > div { 
+    position: absolute; 
+    top: 10px; 
+    left: 10px; 
+    right: 10px; 
+    bottom: 10px; 
+}
